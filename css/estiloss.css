@@ -41,16 +41,16 @@ header {
 }
 
 Nav {
-  background-color: #1c5e0f;
+  background-color:#A2D9CE;
   color: #000000;
   padding: 15px;
   min-height: 15vh;
 }
 
 nav:hover {
-    background-color: #pink;
+    background-color: #A2D9CE
 }
-.divflex {
+.flexbox {
   display: flex;
   justify-content: space-around;
   flex-wrap: nowrap;
@@ -68,7 +68,7 @@ a:hover {
   }
 
     a {
-      color: #000000;
+      color: #FCF3CF;
       text-decoration: none;
     }
 

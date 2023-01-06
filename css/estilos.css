@@ -1,0 +1,56 @@
+body {background-color: white;
+      background-image: url(../imagenn/fondo.jpg);
+}
+
+.marronletra{color:brown;}
+
+.iconowp {width: 40px;
+         position: fixed;
+         bottom:   10px;
+         right:    15 px;
+}
+
+.iconoinsta {width: 40px;
+            position: fixed;
+            bottom:  10px;
+      }
+header {
+        justify-content: center;
+        justify-content:  space-around;
+        flex-wrap: wrap;
+      }
+img {width: 350px;}
+
+section{height: 600px;
+background-color: pink
+}
+.objeto1 {width: 70%
+height: 300px;
+backgroun-color: white;
+}
+.objeto2 {width: 30%;
+height: 300px;
+backgroun-color: pink;
+}
+
+nav {
+  background-color: #1c5e0f;
+  color: #000000;
+  padding: 15px;
+  min-height: 15vh;
+}
+
+.divflez{
+  display: flez;
+  justify-content: space-around;
+  flex-wrap: nowrap;
+}
+
+a:hover {
+        color:pink;
+}
+
+  a {
+    color: #000000;
+    text-decoration: none;
+  }
